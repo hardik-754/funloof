@@ -1,0 +1,1 @@
+{"name":"funloof","version":"1.1.0","private":true,"engines":{"node":">=22"},"scripts":{"start":"node server.js","check":"node --check server.js && node --check lib/app.js && node --check lib/storage.js && node --check api/index.js && node --check public/app.js","test":"node --test test/security.test.js"}}

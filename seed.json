@@ -1,0 +1,89 @@
+{
+  "products": [
+    {
+      "id": "rainbow",
+      "name": "Rainbow stacking friends",
+      "category": "Wooden toys",
+      "age": "1–3 years",
+      "price": 899,
+      "mrp": 1199,
+      "stock": 24,
+      "description": "A colourful sample stacking toy for curious little hands. Replace this sample with your real product details and verified age guidance.",
+      "art": "rainbow",
+      "color": "#fff0df",
+      "featured": true,
+      "image": ""
+    },
+    {
+      "id": "blocks",
+      "name": "Little builder block set",
+      "category": "Learning & activity",
+      "age": "3–5 years",
+      "price": 1299,
+      "mrp": 1699,
+      "stock": 18,
+      "description": "Big ideas start with little blocks. Sample product for demonstrating the Funloof catalogue.",
+      "art": "blocks",
+      "color": "#e8f3ef",
+      "featured": true,
+      "image": ""
+    },
+    {
+      "id": "rocket",
+      "name": "Ready, steady, space!",
+      "category": "Vehicles & ride-ons",
+      "age": "6–10 years",
+      "price": 749,
+      "mrp": 999,
+      "stock": 12,
+      "description": "An imaginative rocket adventure. Sample product; specifications and suitability are pending.",
+      "art": "rocket",
+      "color": "#edeafa",
+      "featured": true,
+      "image": ""
+    },
+    {
+      "id": "bunny",
+      "name": "Bunny cuddle buddy",
+      "category": "Soft toys",
+      "age": "0–12 months",
+      "price": 599,
+      "mrp": 799,
+      "stock": 30,
+      "description": "A cheerful sample bunny. Confirm all materials, safety information and age suitability before offering a real product.",
+      "art": "bunny",
+      "color": "#fce9ee",
+      "featured": true,
+      "image": ""
+    },
+    {
+      "id": "train",
+      "name": "Happy little wooden train",
+      "category": "Wooden toys",
+      "age": "1–3 years",
+      "price": 1099,
+      "mrp": 1399,
+      "stock": 16,
+      "description": "All aboard for pretend play. This is a demonstration product.",
+      "art": "train",
+      "color": "#e6f1fb",
+      "featured": false,
+      "image": ""
+    },
+    {
+      "id": "paint",
+      "name": "My first creative kit",
+      "category": "Arts & pretend play",
+      "age": "3–5 years",
+      "price": 649,
+      "mrp": 899,
+      "stock": 20,
+      "description": "A splash of colour for imaginative afternoons. Sample contents and product details pending.",
+      "art": "paint",
+      "color": "#fff5cf",
+      "featured": false,
+      "image": ""
+    }
+  ],
+  "orders": []
+}

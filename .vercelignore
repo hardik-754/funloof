@@ -1,0 +1,8 @@
+.git
+.local
+.env
+.env.*
+data
+test
+*.log
+*.zip
